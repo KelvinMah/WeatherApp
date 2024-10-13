@@ -6,7 +6,7 @@ A weather application that allows users to check the current weather conditions 
 ## Features
 - Users can search for weather conditions of any city in the world.
 - The app displays the current weather conditions, including temperature and weather description.
-- The app utilizes the OpenWeather API to fetch weather data.
+- The app utilizes the OpenWeatherMap API to fetch weather data.
 
 ## Installation and Usage
 To use this app, you can follow these steps:
